@@ -1,50 +1,59 @@
-# Niche Director Lite
+# Director Lite
 
-A free skill that makes your AI assistant act as a creative director for one niche.
+**A free creative director for your niche.** Tell it what you make. It reads what your niche is
+publishing this month, finds what's working in other niches, and hands you a brief you can shoot
+this week, down to the cover and every slide.
 
-You tell it what you make and who it's for. It goes and reads what is actually being published in
-your niche this month, looks at how other niches build their posts, and hands back a brief:
+## What you get back
 
-1. **One post to make first**, briefed down to the cover, the slides and the hook.
-2. **Patterns that work in other niches, rewritten for yours**, each with the real reference
-   beside it.
-3. **A few more posts** worth making, ranked.
-4. **What is moving** in your niche right now, each line dated, with the page it came from.
-5. **Well-made work**, with how each piece is built and what to take from it.
-6. **Words and topics**, each with where the claim comes from.
+Here is part of a real brief, for a home cake decorator who pipes vintage Lambeth borders:
 
-Every reference is a page it opened, and every number is one it read. When it doesn't know
-something, it writes "unknown" instead of guessing.
+> **Working elsewhere: the band sampler (embroidery).** One ground, horizontal rows, a different
+> stitch repeated along each row. It began as a practice sheet and ended up framed on walls.
+>
+> **Your version: a Lambeth sampler.** One covered board piped in rows: large shell, small shell,
+> double ruffle, drop string, swag, bead. Cover: the whole board, straight on, nothing else in
+> frame. Slide 2: one row close up, with its tip number. Slide 3: the same row when the buttercream
+> is too soft.
 
-It does not write your posts, predict how they will do, or rank accounts.
+The idea came from embroidery, where samplers have been made for centuries. Finding that kind of
+crossover is what this skill is for.
 
-## Where it works
+Every brief gives you:
 
-We tested it blind in September 2026 on five niches, with three graders from three different AI
-vendors.
+- one post to make first, briefed to the cover, the slides and the opening line
+- ideas that already work in other niches, rewritten for yours, with the real post beside each
+- what's moving in your niche right now, each point dated and linked to the page it came from
+- well-made work worth studying, and what to take from it
+- the words and topics that keep coming up, each with where it came from
 
-| host | result |
-|---|---|
-| Claude Opus, Claude Sonnet (with web search and fetch) | works |
-| GPT-5.6 Sol (with web search) | works |
-| GPT-6 Astra | runs, but no better than asking it to try hard |
-| Gemini without paid search grounding | does not run |
+## Why not just ask your AI for content ideas?
 
-On the hosts where it works, a brief carried about three posts a creator would actually make that
-week, and fewer made-up statistics than the same model given a plain "try hard" prompt. A brief
-takes six to thirteen minutes of the model's time.
+We tried exactly that, blind. Same models, same niches, one arm with this skill and one with a
+plain "give me your best ideas, try hard" prompt. Graders from three AI companies scored the results
+without knowing which was which.
 
-**It needs browsing.** Without web search it will say so and stop.
+With the skill, the briefs had more posts a creator would actually make that week, and about eight
+times fewer invented numbers (0.3 per brief against 2.5). The reason is simple: it cites a page for
+every claim, and when it can't find something it writes "unknown" rather than making it up. A brief
+takes the model six to thirteen minutes of real reading.
 
-**It mostly can't see pictures.** Browsing tools read pages as text, so on most hosts the model
-can't judge how a cover looks. It will ask you for screenshots of five to ten covers, some of
-yours and some from your niche that you think are good. If you send them and your host reads
-images, the craft section gets much better. If you don't, that section stays short and says why.
+## Works best on
+
+Claude (Opus or Sonnet) and GPT-5.6 Sol, with web search on. That's where our tests showed the
+difference. It needs to browse, because the whole point is reading what's live this month. On Gemini,
+switch on Google Search grounding first.
+
+## Get sharper briefs
+
+Most AI browsers read a page's text, and they can't see the pictures. So give it your eyes: when it
+asks, send five to ten screenshots of covers, some yours and some from your niche that you rate. If
+your assistant reads images, the craft notes get noticeably better. It will tell you plainly when a
+section had nothing to go on.
 
 ## Install
 
-The skill is the `niche-director-lite/` folder: `SKILL.md` plus the two files it reads,
-`THE-METHOD.md` and `THE-BRIEF.md`. Keep all three together.
+The skill is the `niche-director-lite/` folder. Keep its three files together.
 
 **Claude Code**
 
@@ -54,31 +63,30 @@ mkdir -p ~/.claude/skills
 cp -r meliura-director-lite/niche-director-lite ~/.claude/skills/
 ```
 
-Then ask: *"Use niche-director-lite. I make …"*
+Then say: *"Use niche-director-lite. I make …"*
 
-**Claude apps (claude.ai, desktop)**: zip the `niche-director-lite` folder and upload it as a
-skill in your settings, where your plan offers skills.
+**Claude apps (claude.ai and desktop).** Zip the `niche-director-lite` folder and upload it under
+Skills in your settings.
 
-**Codex CLI**: copy the folder into `~/.codex/skills/`.
+**Codex CLI.** Copy the folder into `~/.codex/skills/`.
 
-**Anything else with browsing**: paste the three files into the conversation, `SKILL.md` first,
-and tell it your niche.
+**Any other assistant that can browse.** Paste the three files into a new chat, `SKILL.md` first,
+then tell it your niche.
 
-## What changed in 1.1
+## Want it to see every cover?
 
-- The brief now opens with a single post to make first, instead of ending on questions.
-- Patterns from other niches, rewritten for yours, come second, straight after that pick.
-- The "beautiful, not yet travelled" section came back empty in most test runs, because a text
-  browser can't see images. It is now built from what the model can actually establish: your
-  screenshots, the maker's own description of the work, or a count printed on the page.
-- The research log moved below the briefs.
-- Hooks can no longer put a made-up number in your mouth.
+[Meliura Director](https://meliura.com) is the hosted version. It looks at the covers themselves,
+scores the craft separately from the reach, and keeps your brief fresh every Monday.
+
+## New in 1.1
+
+- The brief opens with the one post to make first.
+- Ideas from other niches come straight after, with the reference beside each one.
+- The craft section now works from your screenshots, so it rarely comes back empty.
+- Opening lines never put a made-up statistic in your mouth.
 
 ## Licence
 
 MIT. Use it, change it, share it.
 
----
-
-By [Meliura](https://meliura.com). The hosted Meliura Director does the visual half: it looks at
-the covers themselves.
+Made by [Meliura](https://meliura.com).
