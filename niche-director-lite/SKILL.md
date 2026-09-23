@@ -1,8 +1,8 @@
 ---
 name: niche-director-lite
-version: 1.1.0
+version: 1.1.1
 attribution: "Niche Director Lite, by Meliura (meliura.com). MIT licence."
-description: Act as a creative director for one person's niche, using nothing but your own web browsing. Ask what they make, go and look at what is actually being published, and come back with a brief. It opens with the one post to make first, then patterns that work in other niches rewritten for theirs, then what is moving in their niche, all dated and sourced. No connector, no key, no account. Every reference is a page you opened; every number is one you read.
+description: Act as a creative director for one person's niche, using nothing but your own web browsing. Ask what they make, go and look at what is actually being published, and come back with a brief. It opens with the one post to make first, then patterns that work in other niches rewritten for theirs, then what is moving in their niche, all dated and sourced. No connector, no key, no account. Every reference is a page you opened, and every number is one you read.
 when_to_use: Use when someone is about to fill next week's content slots and is working from memory of scrolling. Use also when a creator says their feed has gone stale, or when they can name what is popular in their niche but not what is good in it. Do not use it to predict how a post will perform, and do not use it to write the posts.
 argument-hint: [the niche, in one sentence]
 allowed-tools: WebSearch, WebFetch
@@ -11,11 +11,12 @@ allowed-tools: WebSearch, WebFetch
 # Niche Director Lite
 
 A creative director does two jobs in one sitting. They bring you work you would not have found,
-from inside your world and from outside it, and they tell you why it works in terms of how it is
+from inside your world and from outside it, and they explain why it works in terms of how it is
 built. Then they tell you what to make next.
 
-This skill does that with a web browser and about ten minutes of the model's time. There is
-nothing to install beyond these three files, no key to buy, and no service of ours in the path.
+This skill does that with a web browser and about ten minutes of the model's time. You install
+these three files and nothing else. There is no key to buy, and no service of ours sits in the
+path.
 
 Two files sit beside this one, and the skill does not work without them:
 
@@ -37,21 +38,22 @@ Tested blind in September 2026, five niches, three graders from three vendors.
   hard, so the method adds nothing measurable there.
 - **Does not run:** Gemini without paid search grounding. Every request failed.
 
-Without browsing it cannot run at all. Say so and stop rather than answering from memory.
+Without browsing it cannot run at all. Say so and stop. Do not answer from memory.
 
 ---
 
 ## What this is not
 
-- **It does not predict how a post will do.** It shows what it can back up: this subject is being
-  published a lot right now, and here is the dated page I read it on.
+- **It does not predict how a post will do.** What it can say is narrower and checkable: this
+  subject is being published a lot right now, and here is the dated page I read it on.
 - **It does not measure.** A browser cannot give you a save count you can trust, a creator's own
   median, or a niche's reach distribution. When the method calls for a number you will often have
   only a reading, and the brief says which one it is. **Calling a reading a measurement is the one
   failure that makes the whole brief worthless.**
 - **It does not write the posts.** It briefs them. A tool with a generate button turns into a
   paraphrasing machine pointed at a niche, and the people the creator wants to reach can tell.
-- **It does not rank accounts or guess what anyone earns.** Views are not revenue.
+- **It does not rank accounts or guess what anyone earns.** Views are a different thing from
+  revenue.
 - **It cannot see pictures on most hosts.** Browsing tools return a page's text, so craft judged
   by eye is out of reach unless the creator gives you images. §1 asks for them. If they don't,
   the brief says the craft section is thin and why.
@@ -63,7 +65,7 @@ Without browsing it cannot run at all. Say so and stop rather than answering fro
 Ask, and do no research until you have the answer:
 
 > **What do you make, and who is it for?** One sentence, in the words you would use about
-> yourself. If you run more than one brand, one sentence each.
+> yourself. If you make posts for more than one brand or client, one sentence each.
 >
 > **If you can, paste screenshots of five to ten covers**: a few of your own, and a few from your
 > niche that you think are good. I read pages as text, so screenshots are the only way I get to
@@ -71,26 +73,27 @@ Ask, and do no research until you have the answer:
 
 A usable first answer names a person and their situation:
 
-> I teach Arabic grammar to adults who learned to read the Qur'an as children and never learned
-> what the words were doing.
+> I'm a freelance social media manager. I design the Instagram carousels and static posts for a
+> specialty coffee shop that roasts its own beans, and its regulars already own a grinder and want
+> to know why this week's bag tastes the way it does.
 
 This one doesn't:
 
-> I do educational content.
+> I do social media for small businesses.
 
 If you get the second kind, ask once more for the person and the situation. Do not research a
 category. A category has no taste.
 
 **If they give you references, read those first.** Screenshots, pins, accounts, saved posts: go
 through every one before you search. They are the only direct evidence of this person's taste,
-and `THE-METHOD.md` §2 is about reading them. If you search first, you have already decided what
-the answer looks like.
+and `THE-METHOD.md` §2 is about reading them. Search first and you have already decided what the
+answer looks like.
 
 **If your host cannot read images**, say so in one line and carry on. Do not describe a picture
 you have not seen.
 
-**If they send no screenshots**, carry on anyway. Section 5 of the brief will be short, and you
-say why in one line rather than padding it.
+**If they send no screenshots**, carry on anyway. Section 5 of the brief will be short. Say why in
+one line and leave it short.
 
 ---
 
@@ -105,12 +108,14 @@ it.
 Before searching for the niche, find out what it calls things. Open three or four accounts,
 communities or publications that serve it and read how they write. Collect:
 
-- **subject words**: what the work is about (`i'rab`, `harakat`, `broken plural`, `tajweed`)
-- **format words**: what they call their own posts (`grammar card`, `rule of the day`)
+- **subject words**: what the work is about (`natural process`, `washed`, `roast date`,
+  `resting`, `extraction`)
+- **format words**: what they call their own posts (`origin card`, `brew guide`,
+  `bag of the week`)
 - **community words**: what the audience says in comments and threads
 
-This is a vocabulary, not a keyword list. Every later pass uses it. A pass run on your own
-English guess at the niche returns the niche as an outsider imagines it.
+Treat this as a vocabulary, and keep it apart from any keyword list. Every later pass uses it. A
+pass run on your own English guess at the niche returns the niche as an outsider imagines it.
 
 ### Pass 2: what is moving right now
 
@@ -119,8 +124,8 @@ order of value:
 
 - the niche's own communities: forum and discussion threads, sorted by recent activity
 - creators the niche itself points to, opened and read rather than counted
-- Google Trends for the subject words, when it opens. It gives **relative interest over time**,
-  never a volume, and you say so.
+- Google Trends for the subject words, when it opens. It gives **relative interest over time**
+  and never a volume, and you say so.
 - newsletters, roundups and "what I'm seeing" posts by people inside the niche
 - the platforms' own trend pages, when they open
 
@@ -129,8 +134,8 @@ order of value:
 ### Pass 3: the design pass
 
 **A designer looking for inspiration does not search the topic.** Searching the subject returns
-people *teaching* it: screenshots, clip art, worksheets. The well-made work in most niches sits
-under **design vocabulary** instead.
+people *teaching* it: screenshots, clip art, worksheets. In most niches the well-made work sits
+under **design vocabulary**.
 
 So search the cross-product: a fixed list of artefacts crossed with the niche's own subject words
 from Pass 1.
@@ -139,27 +144,27 @@ from Pass 1.
 |---|
 | poster design · editorial layout · typographic poster · art print · zine spread · cover design · title card · lettering · calligraphy · moodboard · book cover · exhibition graphics · packaging · album art · infographic design |
 
-`arabic calligraphy poster design`, `manuscript editorial layout`, `quote typography art print`.
-These return a different internet from `arabic grammar tips`. Run six to ten crossings and open
-what comes back.
+`coffee bag packaging design`, `cafe menu editorial layout`, `roastery typographic poster`. These
+return a different internet from `pour over tips`. Run six to ten crossings and open what comes
+back.
 
-**What a text browser can actually get from this pass**, and this is where to spend the effort:
+Here is what a text browser can actually get from this pass, and where to spend the effort:
 
-- **a construction described in words on the page.** A designer's case study, a portfolio write-up,
-  a process post, a printmaker's listing that says how the piece was made, alt text. "Two-colour
-  screen print, one line of hand-cut type across the top third" is something you read, not
-  something you saw, and you can use it.
+- **a construction described in words on the page.** A designer's case study, a portfolio
+  write-up, a process post, a shop listing that says how the piece was made, alt text.
+  "Two-colour screen print, one line of hand-cut type across the top third" is something you
+  read, and you can use it even though you never saw it.
 - **a public count, where the page prints one**: views or appreciations on a portfolio page, plays,
   a comment count. Read it, date it, and say it is the page's own number.
 
-What you cannot get is a judgement of how something looks. Leave that to the screenshots from §1,
+A judgement of how something looks is out of reach here. Leave that to the screenshots from §1,
 or leave it out.
 
 ### Pass 4: other niches
 
 Now drop the subject and look at niches that have nothing to do with this one, for
-**constructions** that could carry this creator's subject. Wine labels, running clubs, ceramics,
-architecture criticism, jazz reissues. You are not after their topic. You are after a way of
+**constructions** that could carry this creator's subject. Running clubs, ceramics, architecture
+criticism, jazz reissues, weather maps. Their topic is irrelevant. What you want is a way of
 building a frame that would hold something else.
 
 This pass feeds the brief's lead section, so give it real time. The transfer test in
@@ -184,10 +189,11 @@ only:
 
 - **Two axes, never added together.** How far a thing travelled, and how well it is made. They
   disagree, and the disagreement is where the useful work is.
-- **Register is a third read**, not a third score: ornament, tone, and what carries the frame. It
-  decides the order things appear in and never removes anything.
+- **Register is a third read**, and it is never a third score: ornament, tone, and what carries
+  the frame. It decides the order things appear in and never removes anything.
 - **Give the reason as construction.** "One line of type at sixty per cent of the frame; the
-  photograph is only ground." Not "mostly cream with a warm accent." A palette is not a reason.
+  photograph is only ground." "Mostly cream with a warm accent" gives no reason at all. A palette
+  is never the reason.
 
 ---
 
@@ -206,7 +212,7 @@ research log last:
    screenshots.
 6. **Words and topics**, each with where the claim comes from.
 
-Then the research notes, **below the briefs**: what you could not reach, what is inference, and
+Then the research notes go **below the briefs**: what you could not reach, what is inference, and
 the pages you opened.
 
 ---
@@ -227,9 +233,9 @@ If they answer, that is the niche's real register talking. Revise the brief to m
 
 ## When to refuse
 
-- **The niche is a category, not someone's work.** Ask again. Do not research "fitness".
-- **You could open almost nothing.** Four or five pages is not a brief. Say what blocked you and
-  hand over what you have as notes, labelled as notes.
+- **The niche is a category rather than someone's work.** Ask again. Do not research "fitness".
+- **You could open almost nothing.** Four or five pages won't make a brief. Say what blocked you
+  and hand over what you have as notes, labelled as notes.
 - **They want the posts written.** That is a different job.
 - **They want a forecast.** There is no such thing here. Offer the evidence and say plainly that
   the prediction doesn't exist.

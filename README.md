@@ -6,18 +6,19 @@ this week, down to the cover and every slide.
 
 ## What you get back
 
-Here is part of a real brief, for a home cake decorator who pipes vintage Lambeth borders:
+Here is part of a real brief, written for a freelance social media manager who runs the Instagram
+for a bouldering gym:
 
-> **Working elsewhere: the band sampler (embroidery).** One ground, horizontal rows, a different
-> stitch repeated along each row. It began as a practice sheet and ended up framed on walls.
+> **Working elsewhere: the chess daily puzzle.** One position shown from the solver's side, a
+> two-word instruction, the answer held back. Difficulty climbs through the week.
 >
-> **Your version: a Lambeth sampler.** One covered board piped in rows: large shell, small shell,
-> double ruffle, drop string, swag, bead. Cover: the whole board, straight on, nothing else in
-> frame. Slide 2: one row close up, with its tip number. Slide 3: the same row when the buttercream
-> is too soft.
+> **Your version: "Yellow to move."** A photo from where a climber stands at the start, looking up
+> at the first holds. One short instruction across the bottom. Slide 2: the first two moves, marked.
+> Slide 3: the crux. Slide 4: where to find it on the floor. Run it as a weekly ladder, one colour
+> harder each post.
 
-The idea came from embroidery, where samplers have been made for centuries. Finding that kind of
-crossover is what this skill is for.
+Climbers already call routes problems. The skill spotted that a chess puzzle works the same way and
+turned it into a series the gym can post every week.
 
 Every brief gives you:
 
@@ -34,9 +35,9 @@ plain "give me your best ideas, try hard" prompt. Graders from three AI companie
 without knowing which was which.
 
 With the skill, the briefs had more posts a creator would actually make that week, and about eight
-times fewer invented numbers (0.3 per brief against 2.5). The reason is simple: it cites a page for
-every claim, and when it can't find something it writes "unknown" rather than making it up. A brief
-takes the model six to thirteen minutes of real reading.
+times fewer invented numbers (0.3 per brief against 2.5). It cites a page for every claim, and when it
+can't find something it writes "unknown" instead of filling the gap. A brief
+takes the model five to thirteen minutes of real reading.
 
 ## Works best on
 
