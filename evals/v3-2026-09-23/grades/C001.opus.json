@@ -1,0 +1,150 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 5,
+    "audience_payoff": 5,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "9-slide carousel: 'Straight on the front, slanted on the back? Here's why'",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "20-second looping macro stitch Trial Reel, 'why is only the back slanted?'",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Pinterest 2:3 still 'Why Saddle Stitches Slant on One Side (and How to Fix It)'",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Holiday gift Pins for card holders ('gift for him / her', 'gift for someone who carries 4 cards')",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Edge carousel: the same edge at 5 stages, plus a tall Pinterest pin",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "'Where the money goes' card holder cost breakdown",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Patina comparison: new piece vs years-old wallet",
+      "format_decided": false,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Key fob as a first project, with a free printable pattern",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": false
+    },
+    {
+      "idea": "Holiday order post: monogram/stamping reel with an order-by date",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    },
+    {
+      "idea": "Evergreen '3rd Anniversary Leather Gifts' Pinterest board",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "The short answer",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "1. What's changed on the platforms, and what it means for you",
+      "filled": true,
+      "note": "Each change comes with what it means for this creator"
+    },
+    {
+      "section": "2. Your two audiences, and posts that serve both",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "3. The next post in detail",
+      "filled": true,
+      "note": "Slide-by-slide carousel, caption, Reel cut and Pinterest version"
+    },
+    {
+      "section": "4. The next 6 weeks (Sept 24 – Nov 4)",
+      "filled": true,
+      "note": "Includes a way to work out the USPS order deadline"
+    },
+    {
+      "section": "5. How to shoot and repurpose",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "6. What to track, and what to do about it",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "Caveats",
+      "filled": true,
+      "note": "The Reddit-not-reachable note is neutral"
+    },
+    {
+      "section": "Sources",
+      "filled": true,
+      "note": ""
+    }
+  ],
+  "fabrications": [
+    {
+      "quote": "4:5 images lose about 7% at top and bottom",
+      "kind": "unsourced_number"
+    },
+    {
+      "quote": "with 20–100 Pins per board",
+      "kind": "unsourced_number"
+    },
+    {
+      "quote": "the #1 question I got when I started",
+      "kind": "unsourced_number"
+    }
+  ],
+  "price": "$19",
+  "price_why": "The creator gets a carousel they can shoot this afternoon, a Reel and Pin cut from the same footage, and a holiday plan worked back from real shipping dates. That's worth a small one-off fee, but most of the 6-week plan still needs hooks and formats settled before it can be made.",
+  "one_line": "A well-researched brief that builds the next post (a saddle-stitch slant-fix carousel) slide by slide, then adds a 6-week Instagram/Pinterest plan tied to the holiday gift season.",
+  "strongest": "The slant-fix carousel is complete: a problem beginners keep raising on the forums, a cover image and hook for slide 1, causes on slides 2–6, an honest note on slide 7, a before-and-after, a call to action, and a Reel and Pin cut from one shoot. It also serves buyers by showing how carefully the creator checks both faces of a seam.",
+  "weakest": "The caption sketch gives the creator a line of made-up personal history ('the #1 question I got when I started') and a garbled hashtag line. Also, weeks 2–6 are mostly topic plus direction, with no settled hooks or formats."
+}

@@ -1,0 +1,109 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Three hackles: sparse/standard/overdressed Partridge & Orange comparison carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Knolled recipe carousel for the One Ribbon Nymph (ribbon and marker pen)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Natural vs synthetic wet fly, dry vs in a glass of water ('Which is which?')",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Specimen card series: one finished wet fly on plain card with a fixed label",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Problem → Cause → Fix series (bearded head, crowded eye, hackle that won't sit back)",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "First Partridge & Orange next to this week's, with lessons for beginners",
+      "format_decided": false,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: Three hackles",
+      "filled": true,
+      "note": "Format, cover, slides, hook and failure mode are all specified."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four transfers (sourdough, knolling, herbarium sheet, knitting) each get a concrete fly-tying version."
+    },
+    {
+      "section": "Your taste (no saves seen) lines",
+      "filled": false,
+      "note": "Repeated 'no saves seen' with no content; it asks for saves and gives no taste-based ordering."
+    },
+    {
+      "section": "Not tested: calligraphy shadow exemplars",
+      "filled": false,
+      "note": "Says the pages failed to open, so nothing usable."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Three extra posts with covers and hooks."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Real items with dates, but thin and mostly off the creator's format. It says itself that it isn't about wets or beginners."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Two craft references with take/leave notes, plus view counts from the forum index."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Small vocabulary table, of modest use."
+    },
+    {
+      "section": "Research notes / sources",
+      "filled": true,
+      "note": "Mostly process transparency, with a short list of inferences."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A tier-one idea (three hackle densities, same setup, bare-count hook) is specific enough to shoot tonight. Three more concepts with covers and hooks, plus the herbarium-card and knolled-recipe framings, would save a fly tyer several ideation sessions. Some of the paper is research-process noise and 'no saves seen' filler, so I wouldn't go higher.",
+  "one_line": "A heavily researched content brief that gives one fully specified, on-niche 'make this first' carousel, a few cross-niche formats adapted to fly tying, and a good deal of research-process padding.",
+  "strongest": "The 'Three hackles' carousel: three identical Partridge & Orange flies differing only in hackle turns, same camera and light, a bare-count hook, and a stated way it can fail. It suits beginner tyers, needs only what's on the table, and comes with a clear reason to make it first.",
+  "weakest": "Much of the length is other-niche scaffolding, source bookkeeping, and sections that don't help the next post: repeated empty 'Taste: no saves seen' lines, a thin 'What is moving' list that is mostly foam and salmon patterns, and a forum view-count aside. Several secondary ideas (Problem→Cause→Fix, one-year comparison, specimen card) lack a settled hook or format."
+}

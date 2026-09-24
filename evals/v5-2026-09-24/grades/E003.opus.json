@@ -1,0 +1,106 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Weekly set report: a report card with fixed fields (new count, on the walls, year total, walls open or stripped), a first-timer problem and a setter's pick",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Problem label: a museum-style label for one named problem, credited to its setter",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Dictionary-entry card for gym vocabulary, starting with 'beta (n.)'",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Two ways in: one existing session shown as two unlabelled entry options, after the run-club schedule",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Same tag, different problems: two problems with the same grade tag and each setter's line on why it feels different",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "You will fall: a first-timer carousel about the floor and how to fall",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Spread inside one grade: depends on whether the gym logs ascents",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: the set report",
+      "filled": true,
+      "note": "Fully specified: format, cover fields, slides, hook, caption job and failure mode."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four adaptations from other niches, each with slides and a hook. It also names one idea it rejected and says why."
+    },
+    {
+      "section": "3. Also worth making (ranked)",
+      "filled": true,
+      "note": "Two new ideas plus a ranking of the earlier ones."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Dated trend notes with sources. Says openly that there is no community or Reddit data."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Only one reference (upa!). It is thin but gives a usable takeaway."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "A small table of terms."
+    },
+    {
+      "section": "Research notes",
+      "filled": true,
+      "note": "Gaps, inferences and a source list. Mostly process notes and of little use to the creator."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "It gives a freelancer who designs for a gym a repeatable weekly carousel format and five more ready-to-design carousel concepts they can bring to the setters this week. The research apparatus pads it, so it isn't worth more.",
+  "one_line": "A heavily sourced brief that leads with a fixed-field weekly 'set report' carousel and ranks five more carousel concepts for members and first-timers.",
+  "strongest": "The set report is a distinctive, repeatable format built from counts the setters already have, with fields, slides, hook, caption job and failure mode all specified.",
+  "weakest": "Research jargon and process notes (taste lines, `the reader cannot produce the ground`, tool-block logs, config remarks) bury the useful concepts. Several hooks are also blanks the gym has to fill in."
+}

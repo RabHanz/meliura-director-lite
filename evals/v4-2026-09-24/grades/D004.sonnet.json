@@ -1,0 +1,99 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Dry on the bench, wet in the glass (Partridge and Orange, 4-slide carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Hackle-turn strip (four flies, one to four turns, numerals only, 4 slides)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "One proportion rule, one fly (hackle reaches the hook point; short / long / correct)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Knolled recipe cover for a step-by-step (winged wet)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Herbarium-style specimen card with label",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": false
+    },
+    {
+      "idea": "Painted plate beside the tied fly",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: Dry on the bench, wet in the glass",
+      "filled": true,
+      "note": "Concrete carousel with cover, slides, hook and failure modes."
+    },
+    {
+      "section": "2. It works in another niche, your version",
+      "filled": true,
+      "note": "Five cross-niche patterns with fly-specific versions. Two are strong; the herbarium and plate ideas are stretchy. The 'Refused' aside uses internal jargon."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Three items. One duplicates the hackle-turn strip, one is a new proportion carousel, one reuses the knolled cover."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Self-described as thin. Mostly month-dated background with no ready post. The Glasgow event may not be relevant to the creator."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": false,
+      "note": "Says it saw nothing and found no reach data. Two described references with one-line takes, little usable content."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Small vocabulary table with no volume data. Marginal use."
+    },
+    {
+      "section": "Research notes: what I couldn't reach",
+      "filled": false,
+      "note": "A list of blocked sites and a page log. It is process disclosure, not usable content."
+    }
+  ],
+  "fabrications": [],
+  "price": "$5",
+  "price_why": "A fly-tying creator would get a couple of specific, easy-to-shoot posts out of this, especially the dry-versus-wet-in-a-glass carousel and the hackle-turn strip. The research log, blocked-site list and internal jargon make it read like a working memo, so I don't think they'd pay more than a small amount.",
+  "one_line": "A research-backed brief that leads with one concrete, well-specified dry-versus-wet carousel and adds a few borrowed-format ideas for beginner fly-tying posts, padded with thin trend and process sections.",
+  "strongest": "The lead post is a fully specified 4-slide carousel with a settled cover, a same-angle same-scale wet/dry comparison, a clear beginner payoff and explicit failure conditions. It also says the effect is untested until the creator shoots it.",
+  "weakest": "Much of the answer is process leakage and filler ('medium does not carry', 'the method asks for 30–50' pages, blocked-site lists, a thin trends section, an empty reach section). The nymph side of the creator's work is ignored, and several cross-niche ideas have no settled hook."
+}

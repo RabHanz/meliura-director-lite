@@ -1,0 +1,102 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 5,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Partridge and Orange, in the order it's tied: a 6-slide carousel with an exploded-view cover and only the new material outlined on each slide",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Which is which: two look-alike flies with arrows on the differences you can see",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "One hook, one thread, ___ feathers: a grid of soft-hackle variants where only the feather changes",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Same fly, different turns: the same fly tied heavy and sparse, shown side by side",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Whip-finish reel: one continuous shot, hands only",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "A complete brief: format, cover, what goes on each slide, hook, caption and how it could fail."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four patterns borrowed from other fields, each adapted to fly tying, plus two reasoned refusals."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Four ranked alternatives, each with its cover and hook."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Nine dated, sourced observations. Some, like the UK event, are of limited use."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Four reference works described, with what to take from each. Light on anything actionable."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "A term table. The volume data is missing because Google Trends failed."
+    },
+    {
+      "section": "Research notes: gaps",
+      "filled": false,
+      "note": "A list of sources that could not be reached. Under rule (b) this scores zero."
+    },
+    {
+      "section": "Research notes: inferences",
+      "filled": true,
+      "note": "Lists which claims are the answer's own inferences."
+    },
+    {
+      "section": "Sources",
+      "filled": true,
+      "note": "30 dated sources with URLs."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "It hands a kitchen-table tyer a fully specified first carousel plus three more ready-to-shoot ideas that suit beginners, and the carousels would re-pin well on Pinterest. The pages of research padding keep it below $49.",
+  "one_line": "A heavily sourced content brief that leads with one carefully specified Partridge and Orange step-by-step carousel and backs it with three ranked follow-ups and some trend research.",
+  "strongest": "The lead post is ready to shoot: an exploded-view cover, a fixed camera, only the new material outlined on each slide, a parts box in the corner, and a finished fly that mirrors the cover. It turns the creator's existing step-by-step habit into a clearer format.",
+  "weakest": "Research scaffolding and hedging dilute the brief: the repeated 'taste: none seen' lines, the lists of unreachable sites, and the sections on historical books and trends. The creator has to read past a lot to reach the useful part."
+}

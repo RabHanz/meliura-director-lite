@@ -1,0 +1,101 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 5,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "The label: museum-style problem label carousel (4 slides, setter's own sentence, crux crop, other problems as labels)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "[Colour] to move: chess-puzzle start-position carousel for first-timers",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Departures: reset schedule as one flat-ground timetable card",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Front desk pick: named staff member's card over a photo of one easy problem",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "What came down, what went up: reel from a fixed tripod position",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "Fully specified carousel with slide-by-slide content, failure conditions and caption job."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four transfers, each with a concrete gym version. Two are refused with a stated reason."
+    },
+    {
+      "section": "3. Also worth making (ranked)",
+      "filled": true,
+      "note": "Four ranked follow-ups with 'fails if' notes. Mostly repeats the patterns from section 2."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Six trend items with sources and dates. Skewed to industry press, and the answer says so."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Two brand identities with take/leave notes. No reach data and no screenshots, so it is thin, but the take/leave lines are usable."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "A vocabulary table with sources. There is no volume column because Google Trends failed."
+    },
+    {
+      "section": "Research notes: gaps / inferences / pages opened",
+      "filled": false,
+      "note": "The gaps subsection mostly lists what could not be reached. The inferences are honest but are not deliverable content."
+    }
+  ],
+  "fabrications": [
+    {
+      "quote": "https://www.the publisher.ai/blog/70-record-store-instagram-post-ideas-with-examples-that-sell-vinyl",
+      "kind": "constructed_citation"
+    },
+    {
+      "quote": "https://www.the publisher.ai/blog/63-pottery-studio-post-ideas-with-examples-that-fill-classes-fast",
+      "kind": "constructed_citation"
+    }
+  ],
+  "price": "$19",
+  "price_why": "A freelance social manager would pay for the label carousel and the chess-puzzle carousel, which come with cover, slide order and hook already settled, plus the Departures card. They would not pay more, because a lot of the document is research provenance and a near-empty section 5 that they would skim past.",
+  "one_line": "A research-backed creative brief for a bouldering gym that leads with one fully specified 'museum label' carousel and adds three more ready-to-build static and carousel formats borrowed from other niches.",
+  "strongest": "The 'label' carousel is specified down to cover treatment, per-slide content, the no-hook decision, the caption job and what would make it fail, and it needs only a wall photo and one sentence from a setter.",
+  "weakest": "The pick of the lead idea rests on trade-press trends rather than anything about this gym's members. The document is padded with source lists and a nearly empty section 5, and two source URLs are malformed, so the real substance takes digging to find."
+}

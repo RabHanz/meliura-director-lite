@@ -17,12 +17,16 @@ question is always whether this one outran what they usually do.
 
 In a browser you can rarely work that out properly, so say which basis you used:
 
-| basis | how you got it | how much to trust it |
+| basis | how you got it | what it tells you |
 |---|---|---|
-| **read** | the number is printed on the page you opened | good, with its date |
-| **compared** | you opened five other posts by the same author and this one is visibly above them | fair; say how many you compared |
+| **read** | a raw count printed on the page you opened | how many, with its date; not whether that is a lot for this author |
+| **compared** | you opened other posts by the same author, of a similar age and format, and this one is visibly above or below them | author-relative reach; say how many you compared |
 | **inferred** | you have a reason but no count: it is reposted widely, or cited in three roundups | weak, and it must be labelled |
 | **unknown** | no basis at all | say unknown and leave it there |
+
+Keep the first two apart. A raw count is a fact about one post. Only a comparison against the
+author's own posts says whether it travelled, and a two-day-old post compared with year-old ones
+says nothing yet.
 
 **Unknown is an allowed and common answer.** Leave it as unknown. A guess does not close the gap.
 
@@ -39,7 +43,8 @@ the creator's own screenshots, or the page describing the work in words. Say whi
 - **Making**: how it was physically made. Paper cut, collage, 3D render, editorial photograph,
   hand lettering, scan, generated. Say which, and say whether you saw it or read it.
 - **Originality against this niche's own norm**, rather than against everything. A restrained
-  cream poster is unremarkable in ceramics and unusual on a gym's feed.
+  cream poster may be ordinary in one niche and rare in the next. Check what this niche usually
+  posts before you call anything unusual.
 - **Coherence**: for a multi-slide set, whether slide two keeps the promise the cover made.
 
 **Never produce one combined score.** A single number hides exactly the case you are looking for:
@@ -74,6 +79,33 @@ a page that turned out to be something other than the work.
 
 ---
 
+## 2b. Taste: theirs, read from what they save
+
+Register describes how a body of work holds itself. Taste is narrower: what *this person* keeps
+reaching for. You read it from their saves, looking at each picture (SKILL.md §1b), and you
+write it down in terms a designer could build from:
+
+- **palette**: the colours as they are, with how warm, how muted, and how dark the grounds are
+  ("espresso and cream, muted, dark grounds"), never "earthy vibes";
+- **type**: which families and how they are set ("serif with one italic word", "letter-spaced
+  caps as a frame");
+- **image treatment**: film grain, cut-outs on paper, archival objects, hands at work;
+- **devices**: shape masks, torn paper, ornate frames, line drawing over a photo, pattern
+  grounds;
+- **grid**: how many columns, whether dark and light alternate, whether a motif repeats;
+- **sources**: which niches they borrow from. It is often not their own.
+
+Two rules decide what counts. **What they saved twice counts double.** And **their niche is the
+background, not the target**: a trait every account in their niche already has tells you little
+about them. What they save that their niche does not make is the signal.
+
+Taste is not a score and it is not added to craft or reach. It is one more line on each reference
+("close to your taste: the muted espresso palette and the torn paper"), and it decides which
+references lead the brief. When a reference shares nothing with their saves, say so plainly. It
+can still be worth showing, the way work outside their register is.
+
+---
+
 ## 3. Well made, and what you can establish about it
 
 The best version of this section is **high craft and low reach, both measured against this
@@ -90,16 +122,17 @@ So work with what you can actually establish, and label each reference with how 
 - **counted**: the page prints a public count (views, appreciations, plays). You read it and
   dated it.
 
-A reference can qualify as *not yet travelled* only when its reach basis is **read** or
-**compared** and the number is low for this niche. Everything else goes under **well made, reach
-unknown**. That is an honest heading and a useful list.
+A reference can qualify as *not yet travelled* only when its reach basis is **compared**: it did
+less than the same author's comparable posts. A low raw count alone doesn't qualify, because it
+may be that author's normal. Everything else goes under **well made, reach unknown**. That is an
+honest heading and a useful list.
 
-Both halves are relative to the niche. In a type-led niche the well-made cover is usually the
-restrained one: one line on a bare ground, one photograph used only as texture. In fashion the
-same construction looks unfinished, and the well-made cover is a photograph that took a studio.
-Judge the first by the second's standard and the type-led niche loses every time just for being
-what it is. Reach works the same way: a save count that would be unremarkable on a recipe wall can
-be the top of the distribution in a niche of two hundred accounts.
+Both halves are relative to the niche, and what "well made" looks like there is something to
+check, never to assume. One niche's best cover may be one line on a bare ground; in another the
+same construction looks unfinished and the best covers are studio photographs. Treat any such
+reading as a hypothesis, and test it against the niche's own strongest work before you lean on it.
+Reach works the same way: a save count that would be unremarkable on a recipe wall can be the top
+of the distribution in a niche of two hundred accounts.
 
 Rules that keep it honest:
 
@@ -142,13 +175,25 @@ rule interesting. Slide 3: the worked example. Last slide: what to do with it. O
 
 **4. Rewrite the hook** in the creator's register. Take the *shape* of the original line and leave
 its words: if it opens with a number, open with a number; if it opens with a contradiction, find
-the contradiction in this subject. Never put an invented figure in the creator's mouth ("it took
-me 31 tries"). If the hook needs a number, it has to be the creator's own, and the brief says so.
+the contradiction in this subject. Then write one example line in that shape, so the creator can
+see it. Never put an invented figure in the creator's mouth ("it took me 31 tries"). If the line
+needs a number, leave a blank for the creator's own (*"Open it on day ___."*) and say whose number
+goes there.
 
 **5. Say why it transfers**, in one sentence, naming the property that carries.
 
 Put **the real reference beside every adaptation**: the page you opened, and its date. An
 adaptation without its source is a claim nobody can check.
+
+Then say **what you know about how it did over there**, in one of four plain labels:
+
+- **pattern exists**: you saw it used; nothing says how it performed
+- **publisher reports use**: the page says it is popular or widely used, in its own words
+- **beat its author's normal**: you compared it with the same author's posts (see §1)
+- **measured outcome**: the page reports a result, such as sales, sign-ups or saves over time
+
+Most will be *pattern exists*, and that is fine. The label keeps the section heading honest. It
+does not decide whether an idea goes in.
 
 ### Refuse rather than invent, and say why
 
@@ -157,8 +202,9 @@ refusals:
 
 - **`medium does not carry`**: the source is a video whose value is motion or timing, and the
   reader makes still images. A carousel cannot inherit a cut.
-- **`pattern inseparable from subject`**: take the subject away and nothing is left. A
-  before-and-after of a renovated kitchen shows a kitchen, and there is no pattern left to carry.
+- **`pattern inseparable from subject`**: take the subject away and nothing is left. Test it
+  before you refuse. A kitchen before-and-after may still carry its matched framing and one
+  labelled change. If all that is left is a kitchen, refuse.
 - **`the reader cannot produce the ground`**: the construction needs an original photograph, a
   studio, or a face the reader does not have.
 
@@ -195,7 +241,7 @@ Roughly:
 
 | | |
 |---|---|
-| the creator's own references and screenshots, and their register | 10% |
+| the creator's own references, screenshots and saves; write down their taste and register | 10% |
 | the niche's own vocabulary and what is moving | 25% |
 | the design pass: artefact vocabulary × subject, reading what pages say about how things were made | 20% |
 | other niches and the transfer tests | 30% |

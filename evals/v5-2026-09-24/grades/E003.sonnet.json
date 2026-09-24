@@ -1,0 +1,104 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Set report carousel (fixed four-field report card: new / on the walls / set this year / open-stripped + next reset)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Same tag, different problems (two-problem comparison carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "You will fall (first-timer fall/floor carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Problem label (museum-label-style carousel for one problem)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Gym-word card: beta (n.) (dictionary-entry carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Two ways in (run-club-style two-option session card)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: the set report",
+      "filled": true,
+      "note": "Full carousel spec with fields, slides, hook and failure condition."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four cross-niche adaptations, each with slides and hook, plus one refused source."
+    },
+    {
+      "section": "3. Also worth making (ranked)",
+      "filled": true,
+      "note": "Two additional concrete carousels, plus pointers back to §2."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Sourced trend observations that inform angles."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "One design reference with a usable take, and a statement that nothing else was found."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Small vocabulary table with basis."
+    },
+    {
+      "section": "Research notes: gaps",
+      "filled": false,
+      "note": "Reports what could not be reached (Reddit, Behance, Trends, etc.), which is not usable content."
+    },
+    {
+      "section": "Research notes: inferences and sources",
+      "filled": true,
+      "note": "Source list and stated inferences. Useful for trust but not for making posts."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A freelance social media manager would pay for a ready-to-brief set of five or six carousel structures with slide-by-slide content, hooks and sources, since it saves an ideation session. Process noise, internal jargon and the empty research gaps keep it from being worth more.",
+  "one_line": "A dense research-backed brief that recommends a weekly fixed-field 'set report' carousel and supplies several other slide-by-slide carousel concepts borrowed from other niches, adapted to a bouldering gym.",
+  "strongest": "The set-report carousel is fully specified: fixed four fields, slide-by-slide content, a count-led hook and a failure condition. It uses only counts the setters already have and works for both members and first-timers.",
+  "weakest": "The answer is buried in research-process scaffolding: source codes, leaked internal phrases like `the reader cannot produce the ground`, an aside about a config file, and a long gaps and sources appendix. Several hooks are also just blank templates such as '___ or ___', so the creator still has to finish them."
+}

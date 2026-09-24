@@ -1,0 +1,123 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Gothic black-and-silver lace vintage heart reel (20–30s)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Carousel: True black buttercream without the bitterness (8–10 slides)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Oval cameo cake / 'No oval tin? Cut one from a 9×13' carousel + reel",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Prize-rosette ribbon cake",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Carousel: 6 things that make a cake look homemade (and the fix for each)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Christmas vintage cake (red/green or ice-blue silver)",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    },
+    {
+      "idea": "Carousel: Why your ruffles go limp + 5 tips reference slide",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "Summary",
+      "filled": true,
+      "note": "Clear first-post recommendation with rationale"
+    },
+    {
+      "section": "1. What the research says",
+      "filled": true,
+      "note": "Trend tables and Pinterest signals, mostly sourced"
+    },
+    {
+      "section": "2. Platform facts that shape the formats",
+      "filled": true,
+      "note": "Instagram and Pinterest mechanics, with a caveat on third-party multipliers"
+    },
+    {
+      "section": "3. The next 8 weeks",
+      "filled": true,
+      "note": "Week-by-week calendar for both platforms"
+    },
+    {
+      "section": "4. Post specs (Posts 1–6)",
+      "filled": true,
+      "note": "Post 1 is fully specced; Posts 5 and 6 are thinner"
+    },
+    {
+      "section": "5. How to film each cake so it becomes several posts",
+      "filled": true,
+      "note": "Repurposing checklist plus what to track"
+    },
+    {
+      "section": "Sources",
+      "filled": true,
+      "note": "Long list of URLs that look real and specific"
+    }
+  ],
+  "fabrications": [
+    {
+      "quote": "Pistachio is steady at about 15% rather than new.",
+      "kind": "unsourced_number"
+    },
+    {
+      "quote": "matcha more than doubled (2.7% → 6.3% of orders)",
+      "kind": "unsourced_number"
+    },
+    {
+      "quote": "Seasonal pins need 30–90 days to rank",
+      "kind": "unsourced_number"
+    },
+    {
+      "quote": "Carousels now allow up to 20 slides.",
+      "kind": "unsourced_number"
+    }
+  ],
+  "price": "$19",
+  "price_why": "A home decorator would pay for a sourced trend read, a fully specced first post (gothic lace heart plus black buttercream carousel) and a dated Pinterest/Instagram calendar that includes the early Valentine's pin timing. It is mostly aggregated blog trends, and later posts are thinner, so $49 is too much.",
+  "one_line": "A heavily researched, well-tailored content brief that leads with one clear hero post (gothic silver-lace vintage heart with black-buttercream carousel) and an 8-week seasonal calendar, with thinner specs on later posts.",
+  "strongest": "The Post 1 spec: an exact cake design, reel shot order, two hook variants to test, and a companion black-buttercream carousel with concrete steps. It sits in a clear 'post this first' recommendation tied to the Halloween and Pinterest timing.",
+  "weakest": "It is too much for one home baker (a reel, carousel, Story and 4–6 pins per cake over 8 weeks). Several later posts (rosette, Christmas, ruffles) lack a settled format, cover or hook. The rosette idea also rests on an equestrian-fashion search spike with unproven cake crossover, which the answer admits."
+}

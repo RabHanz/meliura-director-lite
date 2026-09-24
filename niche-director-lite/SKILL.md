@@ -1,11 +1,11 @@
 ---
 name: niche-director-lite
-version: 1.1.1
-attribution: "Niche Director Lite, by Meliura (meliura.com). MIT licence."
+version: 1.2.0
+attribution: "Niche Director Lite, by Meliura (meliura.com). PolyForm Internal Use License 1.0.0."
 description: Act as a creative director for one person's niche, using nothing but your own web browsing. Ask what they make, go and look at what is actually being published, and come back with a brief. It opens with the one post to make first, then patterns that work in other niches rewritten for theirs, then what is moving in their niche, all dated and sourced. No connector, no key, no account. Every reference is a page you opened, and every number is one you read.
 when_to_use: Use when someone is about to fill next week's content slots and is working from memory of scrolling. Use also when a creator says their feed has gone stale, or when they can name what is popular in their niche but not what is good in it. Do not use it to predict how a post will perform, and do not use it to write the posts.
 argument-hint: [the niche, in one sentence]
-allowed-tools: WebSearch, WebFetch
+allowed-tools: WebSearch, WebFetch, Read
 ---
 
 # Niche Director Lite
@@ -14,7 +14,7 @@ A creative director does two jobs in one sitting. They bring you work you would 
 from inside your world and from outside it, and they explain why it works in terms of how it is
 built. Then they tell you what to make next.
 
-This skill does that with a web browser and about ten minutes of the model's time. You install
+This skill does that with a web browser and five to fifteen minutes of the model's time. You install
 these three files and nothing else. There is no key to buy, and no service of ours sits in the
 path.
 
@@ -70,6 +70,13 @@ Ask, and do no research until you have the answer:
 > **If you can, paste screenshots of five to ten covers**: a few of your own, and a few from your
 > niche that you think are good. I read pages as text, so screenshots are the only way I get to
 > judge how things look. Links alone won't do it.
+>
+> **Optional, if it helps:** what the post is for, the format, what you have to work with (photos,
+> products, client material you're allowed to use), how much time you have, and how deep to go:
+> quick, standard or deep. Or say "assume" and I'll pick and tell you what I picked.
+
+Only the first question is worth waiting for. If they answer it and skip the rest, don't ask
+again. Assume, and put your assumptions in one line at the top of the brief.
 
 A usable first answer names a person and their situation:
 
@@ -86,14 +93,35 @@ category. A category has no taste.
 
 **If they give you references, read those first.** Screenshots, pins, accounts, saved posts: go
 through every one before you search. They are the only direct evidence of this person's taste,
-and `THE-METHOD.md` §2 is about reading them. Search first and you have already decided what the
-answer looks like.
+and `THE-METHOD.md` §2 and §2b are about reading them. Search first and you have already decided
+what the answer looks like.
 
-**If your host cannot read images**, say so in one line and carry on. Do not describe a picture
-you have not seen.
+## 1b. Look at what they save
 
-**If they send no screenshots**, carry on anyway. Section 5 of the brief will be short. Say why in
-one line and leave it short.
+Ask for their saves too, in the same message or the next:
+
+> **Show me what you save.** A Pinterest board, a saved-posts folder, or five to ten screenshots of
+> posts you wish you had made. Paste the images here if you can.
+
+Their taste lives in what they save, and that is often another niche's look. Someone who designs
+for a coffee roaster may save stationery, wellness and bookshop brands and almost nothing from
+coffee. A brief built only from their niche's posts would steer them away from their own eye.
+
+**Look at the pictures themselves.** A fetch tool returns a page's text. On Pinterest and
+Instagram that text is an app shell, or alt text that is often wrong: five of the 39 pins on one
+board we checked had alt text describing something else. So:
+
+- If they paste images or give you files, open every one with `Read` and look at it.
+- If they give you a link and all you have is a text fetch, say so, and ask them to paste
+  screenshots. Do not describe a board you have not seen.
+- If your host cannot read images, say so in one line and carry on. Do not describe a picture
+  you have not seen.
+- If they send nothing, carry on anyway. Say in *what I could not reach* that the brief has no
+  taste reading. Section 5 of the brief will be short; say why in one line and leave it short.
+
+From what you see, write their taste down before you search anything (`THE-METHOD.md` §2b):
+palette, type, image treatment, devices, how they build a grid, and which niches they borrow
+from. Weigh anything they saved twice above the rest.
 
 ---
 
@@ -145,8 +173,8 @@ from Pass 1.
 | poster design · editorial layout · typographic poster · art print · zine spread · cover design · title card · lettering · calligraphy · moodboard · book cover · exhibition graphics · packaging · album art · infographic design |
 
 `coffee bag packaging design`, `cafe menu editorial layout`, `roastery typographic poster`. These
-return a different internet from `pour over tips`. Run six to ten crossings and open what comes
-back.
+return a different internet from `pour over tips`. Run six to ten crossings (fewer on a quick
+brief) and open what comes back.
 
 Here is what a text browser can actually get from this pass, and where to spend the effort:
 
@@ -174,8 +202,23 @@ This pass feeds the brief's lead section, so give it real time. The transfer tes
 
 ## 3. How much to open
 
-Aim for **thirty to fifty pages actually opened** across the four passes, and keep the list. The
-brief cites from it, and a page you did not open does not go in the brief.
+Three depths. The honesty rules are the same at every one.
+
+| depth | pages opened, roughly | when |
+|---|---|---|
+| quick | 12 | a weekly top-up in a niche you have briefed before |
+| **standard** (the default) | 25 | most briefs |
+| deep | 40 | a new niche, or a client you are pitching |
+
+These are rough guides. Stop early when the passes stop turning up anything new, and go past them
+when Pass 4 is still finding patterns that carry. Keep a list as you go, and give each page an ID
+(S1, S2 and so on). The brief cites from that list, and a page you did not open does not go in the
+brief.
+
+**Count sources, not pages.** Ten pages from one publisher are one voice. What matters is how
+many independent sources you heard from, and whether the niche's own people are among them. If
+most of what you found came from two or three publishers, say so in one line and leave the list
+as narrow as it is.
 
 If a source won't open (a platform blocks you, a page wants an account, a search returns nothing
 usable), **write it down and move on.** The brief has a place for what you could not reach.
@@ -204,7 +247,8 @@ research log last:
 
 1. **Make this first.** One post, fully briefed, and why this one before the others.
 2. **It works in another niche. Here is your version.** Three to five patterns lifted from other
-   niches, each with the real reference beside it and rewritten in this creator's vocabulary.
+   niches, each with the real reference beside it, rewritten in this creator's vocabulary, and
+   labelled with how much we know about how it did over there.
 3. **Also worth making.** Two to four more post briefs, ranked.
 4. **What is moving** in this niche right now, dated, with the page you read it on.
 5. **Well made, and what we could establish about it.** Craft references, limited to what the
@@ -212,12 +256,16 @@ research log last:
    screenshots.
 6. **Words and topics**, each with where the claim comes from.
 
-Then the research notes go **below the briefs**: what you could not reach, what is inference, and
-the pages you opened.
+Then the research notes go **below the briefs**: what you could not reach, what is inference, how
+wide your sources were, and the source list.
 
 ---
 
 ## 6. Hand it over
+
+Before you do, read the brief once against the source list. Every number, quote and link should
+trace to a source ID. Cut anything that doesn't, or mark it as inference, and note in one line
+what the check changed.
 
 Stop after the research notes. Do not end on a list of questions. The first section has already
 picked a post for them.

@@ -1,0 +1,92 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 5,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "The label: museum-style label for a problem from the latest reset, with setter credit",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "[Colour] to move: chess-puzzle-style start position, beta revealed on later slides",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Departures: reset schedule as a Swiss-timetable-style static card",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Front desk pick: named staff member's card over a problem on an easy circuit",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "What came down, what went up: reel shot from a fixed tripod, filmed by the gym",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "Complete 4-slide carousel spec with cover, slides, caption job and failure modes."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four cross-niche patterns, each adapted with slides or card specs, plus two refused patterns and the reasons."
+    },
+    {
+      "section": "3. Also worth making (ranked)",
+      "filled": true,
+      "note": "Four ranked ideas, each with a failure condition."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Six trends with sources, plus a caveat that they come from industry press."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Thin: two described identities with take/leave notes. No screenshots and reach unknown."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Vocabulary table. No volume data."
+    },
+    {
+      "section": "Research notes: gaps",
+      "filled": false,
+      "note": "A list of sources that could not be reached. Scores zero under rule (b)."
+    }
+  ],
+  "fabrications": [],
+  "price": "$49",
+  "price_why": "It gives a freelancer a ready-to-build flagship carousel plus three repeatable weekly formats they can pitch to the gym, all using assets the gym already has. That covers weeks of content planning and could go straight into a client deck.",
+  "one_line": "A researched creative brief that uses cross-niche design patterns (museum labels, chess puzzles, staff picks, railway timetables) to give specific carousel and still formats for an independent bouldering gym's members and nearby first-timers.",
+  "strongest": "The lead 'label' carousel is fully specified. It has a flat wall photo with a museum-tombstone label as the only type on the cover, the setter's own sentence, a crux crop and a wall-roster slide. It also names clear failure modes (no big grade type, no adjectives, don't write the setter's line for them).",
+  "weakest": "Much of the length goes on research scaffolding (trend citations, blocked-source lists, reach-unknown design references) that doesn't help make posts. Several formats also depend on setters or staff supplying their own words and schedule dates."
+}

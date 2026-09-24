@@ -1,0 +1,90 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 5,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "The whole fly: exploded Partridge and Orange, 9-slide step-by-step carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Hackle-turns row: five Partridge and Oranges, one variable changed, 4-slide carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Recipe-label card: one fly on a plain ground with a five-line recipe and a name label",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Reel: Break the thread on purpose",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: The whole fly",
+      "filled": true,
+      "note": "Cover, slide-by-slide plan, caption job and failure modes are all concrete. The hook is only described, not written."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four cross-niche patterns (exploded drawing, origami steps, ceramics grid, specimen label), each mapped to a fly-tying post. Some of it is more analogy than the creator needs."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Three follow-ups with reasons and an order."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Dated publication items, a gap in wet-fly coverage, and local events. It has no community-thread data."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": false,
+      "note": "The section says nothing was seen and it can't say whether these are well made. It is a poster, a print and a description of other step-by-sets, with little the creator can use."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Vocabulary table with sources and dates. It has no volume data."
+    },
+    {
+      "section": "Pinterest reference",
+      "filled": false,
+      "note": "The answer says it couldn't open Pinterest, so it offers no Pinterest evidence or platform-specific advice."
+    },
+    {
+      "section": "Dated community threads (Reddit, forums)",
+      "filled": false,
+      "note": "Blocked or paywalled, so nothing was delivered."
+    }
+  ],
+  "fabrications": [],
+  "price": "$5",
+  "price_why": "The exploded Partridge and Orange carousel and the hackle-turns row are specific, doable posts for a beginner-tying audience. A tyer would pay a little for them. The document is padded with source logs, off-niche analogies and unfilled sections, and it never writes an actual hook line or caption. That keeps it below $19.",
+  "one_line": "A heavily researched brief that recommends one concrete exploded-parts carousel for a Partridge and Orange, plus a hackle-density comparison row and two smaller posts. The recommendation is buried in source logs and cross-niche analogies.",
+  "strongest": "The lead post is fully staged: parts laid out in order of use on white paper for the cover, one action per slide, a result-first slide sequence, a swap for a different fly, and honest failure modes. The hackle-turns row is a good hands-on teaching post that needs only an hour at the kitchen table.",
+  "weakest": "The hook is described, not written. The document is bloated with source logs, access failures, LEGO, origami and entomology material, and a thin §5. It also ignores the creator's modern nymph patterns and has no Pinterest advice."
+}

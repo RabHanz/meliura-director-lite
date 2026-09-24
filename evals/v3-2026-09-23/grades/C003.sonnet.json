@@ -1,0 +1,87 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Lambeth sampler board: one flat board piped in rows of borders, each labelled with its tip number (carousel, cover is the whole board straight on)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Too soft, too stiff, right: one piping element in three consistencies with numbered pressure points",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "One heart cake, three border versions (A/B/C) in a pattern-envelope carousel, with a buttercream quantity/notions slide at the back",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Butter-yellow heart cake with textured sides and a Lambeth top (still plus short process reel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Lambeth border piped as a frame around a small sculpted object that means something to the recipient",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. What's moving",
+      "filled": true,
+      "note": "Nine dated, sourced trend notes. Useful context but not directly post-ready."
+    },
+    {
+      "section": "2. well made, little reach",
+      "filled": false,
+      "note": "Says it is 'Empty, on purpose' because it could not see images. It lists candidates for the creator to open and judge themselves."
+    },
+    {
+      "section": "3. from other fields: here's your version",
+      "filled": true,
+      "note": "Four adaptations (sampler, numbered stitch card, pattern envelope, piped frame), each with slides and a hook."
+    },
+    {
+      "section": "4. Keywords and topics",
+      "filled": true,
+      "note": "A usable term table. It says it has no volume column because Google Trends was rate-limited."
+    },
+    {
+      "section": "5. Post next",
+      "filled": true,
+      "note": "Five ranked posts with why-now, construction and 'would fail if'. Posts 4 and 5 are thinner."
+    },
+    {
+      "section": "What I couldn't reach",
+      "filled": false,
+      "note": "Honest disclosure of blocked sources. It gives the creator nothing usable."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A home baker would pay for the sampler-board and A/B/C-border carousel concepts. They have slide-by-slide direction and answer real tip-count and consistency questions. The long, cross-referenced research brief with unverified trend data and an empty section keeps it below $49.",
+  "one_line": "A long, transparent research brief on vintage heart cake and Lambeth trends that ends in five ranked post concepts borrowed from embroidery and sewing-pattern formats.",
+  "strongest": "The Lambeth sampler board and the one-heart-three-borders A/B/C carousel are concrete, cheap to make and tailored to home bakers. Each has a cover, slide list and hook, and each answers the tip-count question the trend research surfaced.",
+  "weakest": "Much of the answer is trend reporting and source-status disclosure. One section is deliberately empty, and posts 2, 4 and 5 rely on cross-references or leave the cover or hook unresolved, so the creator still has to piece them together."
+}

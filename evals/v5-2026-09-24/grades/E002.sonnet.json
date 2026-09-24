@@ -1,0 +1,102 @@
+{
+  "scores": {
+    "creator_audience_fit": 4,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 4,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Partridge and Orange 6-slide build-up carousel with exploded-view flat-lay cover",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Which is which: two look-alike flies with arrows on the differing marks (carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "One hook, one thread, ___ feathers: variant grid carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Same fly, different turns: heavy vs sparse hackle contrast carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Reel: one whip finish, one continuous shot, hands only",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "Your saves (taste reading)",
+      "filled": false,
+      "note": "Says none seen; no taste reading. The repeated 'Taste: shares nothing of your saves' lines add nothing."
+    },
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "Full carousel plan: cover, slide-by-slide, hook, caption job, failure modes."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four cross-niche constructions, each mapped to a fly-tying post, plus two refusals."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Four further ranked posts with covers, hooks and failure modes."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Nine dated, sourced observations, mostly usable context."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Described reference entries only, reach unknown; thin but has usable 'take' lines."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Vocabulary table with sources; no volume data."
+    },
+    {
+      "section": "Research notes: gaps",
+      "filled": false,
+      "note": "A list of blocked or failed fetches (Reddit, Pinterest, Trends, forums). Nothing usable."
+    },
+    {
+      "section": "Research notes: sources",
+      "filled": true,
+      "note": "30-source list with URLs and dates."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A hobbyist fly tyer posting step-by-step carousels would pay for a concrete, shootable Partridge and Orange plan plus four follow-on carousel formats that suit their bench and phone. They would not pay more, because the answer is buried in research-process jargon and failed-fetch notes.",
+  "one_line": "A research-brief-style answer whose core is one well-specified soft-hackle build-up carousel (exploded-view cover, fixed camera, one accent outline per step), with four further carousel/reel formats and heavy sourcing scaffolding around it.",
+  "strongest": "The lead recommendation is fully shootable: a 6-slide Partridge and Orange carousel with an exploded-view flat-lay cover, a fixed camera, one accent outline per slide and a parts box, backed by an honestly bounded reason (soft hackles are simple, and the two beginner lists opened name none).",
+  "weakest": "The delivery is cluttered with meta-scaffolding: repeated 'Taste: none seen' lines, internal cross-references, failed-fetch notes and unusable reference entries. The hooks are also fill-in-the-blank, and the lead hook is muddled ('Decide whether the hook counts and say which on slide 2')."
+}

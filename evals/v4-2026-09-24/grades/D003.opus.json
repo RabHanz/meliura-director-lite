@@ -1,0 +1,90 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 5,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "\"The whole fly\": a nine-slide carousel of an exploded Partridge and Orange, parts laid in order of use on white paper, then one tying action per slide",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Hackle-turns row: five Partridge and Oranges with more hackle turns on each, numbered, in a four-slide carousel",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Recipe-label card: one fly on a plain background with its five-line recipe set out like a specimen label, as a series template",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Reel: \"Break the thread on purpose\" on a bare hook",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first: \"The whole fly\"",
+      "filled": true,
+      "note": "Specific cover, slide-by-slide plan, caption job and ways it could fail, plus a swap if the creator doesn't tie this pattern."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four patterns borrowed from other fields, each mapped onto a fly post; two rejected sources with reasons."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Three follow-up posts in ranked order."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Dated publications and events, with caveats; no community threads could be reached."
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Thin. Examples are described, not seen, but each has a usable take and leave-alone note."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Vocabulary table with no volume data."
+    },
+    {
+      "section": "Research notes: gaps",
+      "filled": false,
+      "note": "Lists pages that were blocked or unreachable. Nothing here helps the creator make a post."
+    },
+    {
+      "section": "Research notes: inferences / pages opened",
+      "filled": true,
+      "note": "Separates inferences from sourced facts and lists pages opened; little direct creative use."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "It hands me a first carousel I can shoot at my kitchen table tonight, with the cover, slide order and follow-ups already worked out. But much of the text is research apparatus and odd jargon I'd have to wade through.",
+  "one_line": "A heavily researched brief whose main recommendation is a nine-slide carousel of a Partridge and Orange laid out as an exploded diagram, with three ranked follow-up posts.",
+  "strongest": "The exploded-materials cover is very specific and easy to make: parts in one row, in order of use, unlabelled. Paired with one action per slide, each opening on the last slide's result, it suits beginners learning to tie.",
+  "weakest": "The hook is left as an abstract recipe ('a bare count and a flat claim') instead of an actual line. Useful ideas are also buried under dense research notes, blocked-page logs and unexplained jargon like 'register' and 'carry'."
+}

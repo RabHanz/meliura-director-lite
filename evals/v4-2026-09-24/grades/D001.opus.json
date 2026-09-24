@@ -1,0 +1,92 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "Same tag, different problem: two problems with the same grade tag, each with a setter's note",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Setter's note card per problem (bookshop shelf-talker pattern)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Who's on the floor for your first session: named first-timer greeter and their hours",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Find the crux: staged-reveal puzzle carousel",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Weekly set report template (ski snow-report pattern)",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "Full slide plan, cover, what to ask the gym for, and how it could fail"
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four adaptations with slide plans, plus one refusal with its reason"
+    },
+    {
+      "section": "3. Also worth making, ranked",
+      "filled": true,
+      "note": "Ranked, with what to decide with the gym and how each could fail"
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Dated trade and event items; not the audience's own voice"
+    },
+    {
+      "section": "5. Well made, and what we could establish about it",
+      "filled": true,
+      "note": "Thin: two brand identities, reach unknown, but it gives usable take/leave-alone devices"
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Gym-side vocabulary tables, no volume"
+    },
+    {
+      "section": "Research notes",
+      "filled": true,
+      "note": "Gaps and inferences; neutral"
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "It hands me a ready slide plan for a post only my gym client can make, plus three ranked follow-ups, and it tells me exactly what to ask the setters for. But I'd still have to write every hook and caption line myself, so it isn't worth $49.",
+  "one_line": "A researched brief that recommends a four-slide 'same grade tag, different problem' carousel built on the setter's notes, then adds three ranked, cross-niche carousel adaptations for members and first-timers.",
+  "strongest": "The lead post uses something only this gym has (its setters' words on two same-tag problems), has a clear slide plan and cover, and lists how it could fail, including reading as defensive about grades.",
+  "weakest": "Hooks are given only as 'shapes' and never written, and nearly every post needs setter or staff input the creator has to go and get, so none can be made without another round with the gym."
+}

@@ -1,0 +1,130 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 4
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "9-slide carousel: why saddle stitches slant on the back only (slide-by-slide, caption, 5 hashtags)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "20-second looping macro stitching Trial Reel cut from the same footage",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Pinterest 2:3 pin 'Why Saddle Stitches Slant on One Side (and How to Fix It)' plus video Pin",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Gift Pins: 'Handmade leather card holder gift for him / her' and 'Gift for someone who carries 4 cards'",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Edge-finishing carousel: same edge at 5 stages (bevel, sand, dampen, Tokonole, burnish) plus tall Pin",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "'Where the money goes' cost breakdown of a card holder",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Patina comparison: new piece next to a 2-year-old wallet, Pin titled 'Veg Tan Leather Patina: New vs 2 Years'",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": false
+    },
+    {
+      "idea": "Key fob as first project with free printable pattern PDF",
+      "format_decided": false,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Holiday order-by-date post with monogram/stamping reel",
+      "format_decided": true,
+      "cover_decided": false,
+      "hook_decided": false,
+      "would_make_this_week": false
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "The short answer",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "1. What's changed on the platforms",
+      "filled": true,
+      "note": "Long, but each point is tied to a 'what it means for you'."
+    },
+    {
+      "section": "2. Your two audiences, and posts that serve both",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "3. The next post in detail",
+      "filled": true,
+      "note": "Full slide-by-slide carousel, caption, Reel and Pinterest version."
+    },
+    {
+      "section": "4. The next 6 weeks",
+      "filled": true,
+      "note": "Table of weekly posts; weeks 2-6 are concepts, not built out."
+    },
+    {
+      "section": "5. How to shoot and repurpose",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "6. What to track, and what to do about it",
+      "filled": true,
+      "note": ""
+    },
+    {
+      "section": "Caveats",
+      "filled": true,
+      "note": "Honest hedges; neutral."
+    },
+    {
+      "section": "Sources",
+      "filled": true,
+      "note": "Links are listed as a block, not tied to individual claims."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A leather worker gets a fully built slide-by-slide carousel with caption, Reel and Pin, plus a holiday-timed 6-week plan and shipping cutoff. They'd pay for that. The platform-changes section is padding they could skip, and weeks 2-6 still need real work, so it isn't worth $49.",
+  "one_line": "A research-backed brief that picks one fully built beginner carousel (slanted back stitches) and repurposes it as a Trial Reel and Pin. It adds a holiday-timed 6-week plan for both audiences.",
+  "strongest": "The slant-fix carousel is specific to this creator and audience: a real recurring beginner problem, nine concrete slides, a caption, hashtags, and a Reel and Pinterest repurpose from one shoot.",
+  "weakest": "The suggested caption has the creator say it was 'the #1 question I got when I started' and that every piece is checked on both faces, which invents history and claims they must make true. Weeks 2-6 are only sketched, and a heavy cadence (2-3 IG posts a week plus a daily Pin) plus a long platform-updates section load a solo garage maker."
+}

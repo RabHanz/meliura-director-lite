@@ -1,0 +1,97 @@
+{
+  "scores": {
+    "creator_audience_fit": 5,
+    "production_readiness": 4,
+    "audience_payoff": 4,
+    "next_post_judgment": 5,
+    "practical_feasibility": 4,
+    "trust_and_reputation": 5
+  },
+  "cap_applied": null,
+  "cap_reason": "",
+  "posts": [
+    {
+      "idea": "This week's set drawn as a numbered topo (4-slide carousel)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Setter's pick: handwritten setter card scanned over a crop of the start holds (static)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Which one's the start? Field-guide-plate carousel for first-timers (4 slides)",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "Comes down on ___ closing-date static",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    },
+    {
+      "idea": "What didn't make the set: stripped-boulder 2-slide post",
+      "format_decided": true,
+      "cover_decided": true,
+      "hook_decided": true,
+      "would_make_this_week": true
+    }
+  ],
+  "promised_sections": [
+    {
+      "section": "1. Make this first",
+      "filled": true,
+      "note": "Complete slide-by-slide spec, hook, and failure mode."
+    },
+    {
+      "section": "2. It works in another niche. your version.",
+      "filled": true,
+      "note": "Four transfer patterns with cover, hook and slides. The Refused item is a neutral note."
+    },
+    {
+      "section": "3. Also worth making",
+      "filled": true,
+      "note": "Mostly pointers back to section 2. Adds one new static, 'Comes down on ___'."
+    },
+    {
+      "section": "4. What is moving",
+      "filled": true,
+      "note": "Sourced trend notes, mostly from gym blogs and trade press. Useful but thin on climber conversation."
+    },
+    {
+      "section": "5. Well made (taste reading)",
+      "filled": false,
+      "note": "The taste reading is explicitly empty because no screenshots were sent."
+    },
+    {
+      "section": "5. Well made (upa! Climbing example)",
+      "filled": true,
+      "note": "One design-identity example with a usable 'toolkit' takeaway. Reach and taste unknown."
+    },
+    {
+      "section": "6. Words and topics",
+      "filled": true,
+      "note": "Small vocabulary table. No volume data because Google Trends refused."
+    },
+    {
+      "section": "Research notes",
+      "filled": true,
+      "note": "The gaps list is process-only and adds nothing usable. The sources and inferences lists are real content."
+    }
+  ],
+  "fabrications": [],
+  "price": "$19",
+  "price_why": "A gym's social manager would pay for a ready-to-build topo carousel and four more concepts with covers and hooks. The research scaffolding, process notes and 'basis/refused' jargon dilute it, so it isn't worth $49.",
+  "one_line": "A research-backed brief that leads with a fully specced 'this week's set as a topo' carousel and adds four cross-niche post concepts, each with a cover and hook, for a bouldering gym's members and first-timers.",
+  "strongest": "The lead recommendation is a complete, gym-specific four-slide topo carousel. It has a cover treatment, a slide-by-slide key, a hook, a data-backed reason to post it in the set's first week, and a named failure mode (busy photo).",
+  "weakest": "The pipeline scaffolding buries the useful posts. It includes references to questions the creator never answered, fetch counts, 'basis/refused' labels, an empty taste section and a long gaps list. Some of the cross-niche transfers (ceramics kiln, bird plates) also feel constructed."
+}
